@@ -38,7 +38,7 @@ from telegram.ext import (Application, CallbackQueryHandler, CommandHandler,
 # CONFIG
 # ════════════════════════════════════════════════════════════════════════════
 BOT_TOKEN = "8705117859:AAHQt0ZaewZzATfyM9lQR9VVw9J3jZltEr0"
-ADMIN_IDS = {8353712042}
+ADMIN_IDS = {8353712042,8467187771,7717877711}
 DB_PATH = os.getenv("DB_PATH", "subzy_store.db")
 LANGS = ("en", "ar")
 HTML = ParseMode.HTML
